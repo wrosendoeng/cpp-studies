@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596120779 source:/home/wrosendoeng/cpp/Classes/CLASSES/Cat.cpp
+	<iostream>
+	"Cat.h"
+
+1596120686 /home/wrosendoeng/cpp/Classes/CLASSES/Cat.h
+
+1596120760 source:/home/wrosendoeng/cpp/Classes/CLASSES/classes.cpp
+	<iostream>
+	"Cat.h"
+

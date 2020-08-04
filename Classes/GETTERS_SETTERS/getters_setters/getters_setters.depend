@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1596122115 source:/home/wrosendoeng/cpp/Classes/GETTERS_SETTERS/getters_setters/src/Person.cpp
+	<iostream>
+	"Person.h"
+
+1596122209 /home/wrosendoeng/cpp/Classes/GETTERS_SETTERS/getters_setters/include/Person.h
+	<iostream>
+
+1596122176 source:/home/wrosendoeng/cpp/Classes/GETTERS_SETTERS/getters_setters/getters_and_setters.cpp
+	<iostream>
+	"Person.h"
+

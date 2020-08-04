@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1596416149 source:/home/wrosendoeng/cpp/Namespaces/Namespaces/Namespaces/Namespaces.cpp
+	<iostream>
+	"Cat.h"
+	"Animals.h"
+
+1596416205 /home/wrosendoeng/cpp/Namespaces/Namespaces/Namespaces/include/Cat.h
+	<iostream>
+
+1596416263 source:/home/wrosendoeng/cpp/Namespaces/Namespaces/Namespaces/src/Cat.cpp
+	<iostream>
+	"Cat.h"
+
+1596415986 source:/home/wrosendoeng/cpp/Namespaces/Namespaces/Namespaces/src/Animals.cpp
+	<iostream>
+	"Animals.h"
+
+1596416286 /home/wrosendoeng/cpp/Namespaces/Namespaces/Namespaces/include/Animals.h
+	<iostream>
+

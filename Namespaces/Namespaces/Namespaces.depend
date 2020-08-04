@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596414640 source:/home/wrosendoeng/cpp/Namespaces/Namespaces/Namespaces.cpp
+	<iostream>
+	"Cat.h"
+
+1596414795 /home/wrosendoeng/cpp/Namespaces/Namespaces/include/Cat.h
+
